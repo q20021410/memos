@@ -1,0 +1,9 @@
+# UI Framework
+PyQt6>=6.4.0
+PyQt6-WebEngine>=6.4.0
+
+# Database Driver (For Remote MariaDB/MySQL)
+PyMySQL>=1.1.0
+
+# Packaging & Build (Optional, for creating .exe)
+pyinstaller>=6.0.0
