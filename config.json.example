@@ -1,10 +1,10 @@
 {
     "db_type": "mysql",
     "mysql": {
-        "host": "192.168.0.100",
+        "host": "server_ip",
         "port": 3306,
-        "user": "memo_admin",
-        "password": "your_secure_password_here",
+        "user": "DB_ID",
+        "password": "DB_PASSWORD",
         "database": "memo_db"
     },
     "sqlite_path": ""
