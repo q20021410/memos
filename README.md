@@ -32,6 +32,9 @@ PyQt6 기반의 강력한 위키형 HTML 에디터 겸 호스트네임(Hostname)
 - **Database:** SQLite3 (Local File), MariaDB / MySQL (Remote Server)
 - **Database Driver:** PyMySQL
 
+## 관리자 모드 진입방법
+- 설정에서 사용자 추가에 hiddenconfig 입력 후 추가 클릭 < 기본 / 코드상에서 검색 후 변경>
+
 ## 🚀 실행 및 빌드 안내
 
 ### 1. 필수 라이브러리 설치
